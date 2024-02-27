@@ -1,0 +1,21 @@
+/* Move o conteúdo 3.5rem para baixo, porque usamos uma navbar fixa que tem altura de 3.5rem */
+body {
+    padding-top: 3.5rem;
+
+  }
+  .jumbotron{
+
+    background-color:"Hogwarts.jpng" ;
+  }
+  .row h1{
+    color:red ;
+  }
+  .row h2{
+    color: green;
+  }
+  .row h3{
+    color: blue;
+  }
+  .row h4{
+    color: rgb(255, 217, 0);
+  }

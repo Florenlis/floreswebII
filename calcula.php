@@ -4,9 +4,8 @@
     
     $data = new DateTime($dataNascimento);
     $intervalo = $data->diff( new DateTime( date('Y-m-d') ) );
-
-
 ?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
